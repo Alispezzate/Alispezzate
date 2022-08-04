@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Alispezzate's github trophy](https://github-profile-trophy.vercel.app/?username=Alispezzate&row=1)](https://github.com/Alispezzate/github-profile-trophy)
 [![Alispezzate's github stats](https://github-readme-stats.vercel.app/api?username=Alispezzate&theme=blue-green)](https://github.com/Alispezzate/github-readme-stats)
+[![Alispezzate's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alispezzate&theme=blue-green)](https://github.com/Alispezzate/github-readme-stats)
 
 <!--
 **Alispezzate/Alispezzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
