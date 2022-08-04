@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm a CS student and soon to be fullstack developer
 
-<br>
-[!](https://gitwar.herokuapp.com/badge?username=Alispezzate&style=for-the-badge)
-<br>
-[![Alispezzate's github stats](https://github-readme-stats.vercel.app/api?username=Alispezzate&theme=blue-green)](https://github.com/Alispezzate/github-readme-stats)
+
+[![Alispezzate's github stats](https://github-readme-stats.vercel.app/api?username=Alispezzate&theme=tokyonight)](https://github.com/Alispezzate/github-readme-stats)
 <br>
 [![Alispezzate's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alispezzate&theme=blue-green)](https://github.com/Alispezzate/github-readme-stats)
 <br>
