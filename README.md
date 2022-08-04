@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Alispezzate's github trophy](https://github-profile-trophy.vercel.app/?username=Alispezzate&row=1)](https://github.com/Alispezzate/github-profile-trophy)
+
 <!--
 **Alispezzate/Alispezzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
