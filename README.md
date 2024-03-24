@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a CS student and soon to be fullstack developer
+### Hi there 👋, I'm a CS student and fulltime fullstack developer
 
 
 ![Alispezzate's github stats](https://github-readme-stats.vercel.app/api?username=Alispezzate&theme=tokyonight)
